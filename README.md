@@ -1,4 +1,4 @@
-# PSS_lazy_datapack PSS 懒狗数据包
+# PSS ~~懒狗~~数据包
 ###### A lazy datapack for PSS, the lazier crafting,the better one.（划掉）
 
 ## 数据包内容：
