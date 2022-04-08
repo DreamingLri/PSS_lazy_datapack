@@ -1,36 +1,32 @@
 {
-	"type": "crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:horn_coral"
+	"type": "crafting_shaped",
+	"pattern": [
+		"&#&",
+		"@~*",
+		"&%&"
+	],
+	"key": {
+		"&": {
+			"item": "minecraft:nautilus_shell"
 		},
-		{
+		"@": {
 			"item": "minecraft:tube_coral"
 		},
-		{
-			"item": "minecraft:bubble_coral"
-		},   
-		{
-			"item": "minecraft:fire_coral"
-		},
-		{
+		"~": {
 			"item": "minecraft:brain_coral"
 		},
-		{
-			"item": "minecraft:nautilus_shell"
+		"*": {
+			"item": "minecraft:fire_coral"
 		},
-		{
-			"item": "minecraft:nautilus_shell"
+		"%": {
+			"item": "minecraft:horn_coral"
 		},
-		{
-			"item": "minecraft:nautilus_shell"
-		},
-		{
-			"item": "minecraft:nautilus_shell"
+		"#": {
+			"item": "minecraft:bubble_coral"
 		}
-	],
+	},
 	"result": {
-		"item": "heart_of_the_sea",
+		"item": "minecraft:heart_of_the_sea",
 		"count": 1
 	}
 }
