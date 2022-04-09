@@ -43,3 +43,12 @@
  ![附魔金苹果](https://s2.loli.net/2022/04/08/QJ7W6grIZt5yzq2.png)
  
  - 猫咪赠礼有概率会获得附魔金苹果
+
+6. 新增旗帜图案可再生
+
+ - 合成底物均为骷髅旗帜图案
+
+ ![猪鼻旗帜图案](https://sm.ms/delete/ejg1C2HmPoLqUDfxSZ5XTE86AW)
+ 
+ ![苦力怕旗帜图案](https://sm.ms/delete/8irp1njcezwAPNJsI2tlE9fZXC)
+
