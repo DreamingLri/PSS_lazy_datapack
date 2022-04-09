@@ -48,7 +48,7 @@
 
  - 合成底物均为骷髅旗帜图案
 
- ![猪鼻旗帜图案](https://sm.ms/delete/ejg1C2HmPoLqUDfxSZ5XTE86AW)
+ ![猪鼻旗帜图案](https://s2.loli.net/2022/04/09/mlvZd8uABjDQGxE.png)
  
- ![苦力怕旗帜图案](https://sm.ms/delete/8irp1njcezwAPNJsI2tlE9fZXC)
+ ![苦力怕旗帜图案](https://s2.loli.net/2022/04/09/tdVsP1BHYwm7ruQ.png)
 
