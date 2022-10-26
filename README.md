@@ -21,34 +21,76 @@
 ## 数据包内容：
 1. 继承了[LBS_Ez_Craft_datapack](https://github.com/Sinbing/LBS_Ez_Craft_datapack/)和[LBS_Woodcutting_datapack](https://github.com/Sinbing/LBS_Woodcutting_datapack/)的优良传统
 
-2. 新增远古残骸可再生
-   - 玩家获得村庄英雄buff后，会在下界获得盔甲商和工具商的赠礼
+---
 
-3. 新增各种矿车合成表
+2. 新增远古残骸可再生
+   - 地毯模组通过配置可令猪灵蛮兵在堡垒遗迹中再生，因此通过击杀它们可以概率掉落远古残骸
+
+---
+
+3. 镶金黑石可再生
+   - 与猪灵交易时有极小概率掉落镶金黑石
+
+---
+
+4. 幽匿系列方块和回响碎片可再生
+   - 监守者死亡时有概率会掉落幽匿块、幽匿催发体、幽匿尖啸体和幽匿脉络
+   - 监守者被玩家杀死时有概率掉落回响碎片，极小概率会掉落唱片残片
+
+---
+
+5. 唱片可再生
+   - 当苦力怕在堡垒遗迹中被骷髅杀死时，有几率掉落唱片“Pigstep”
+
+   - 当苦力怕在要塞中被骷髅杀死时，有几率掉落唱片“otherside”
+
+   - 当苦力怕在远古城市被骷髅杀死时，有几率掉落唱片残片
+
+---
+
+6. 方解石与凝灰岩可再生
+   - 将闪长岩放入高炉烧制获得方解石
+
+   - 将安山岩放入高炉烧制获得凝灰岩
+
+---
+
+7. 新增各种矿车合成表
 
  ![漏斗矿车](https://s2.loli.net/2022/04/08/XV8qa7nrNBWhGC3.png)  
 
  ![箱子矿车](https://s2.loli.net/2022/04/08/rA1EG3ZSn7tV2Ig.png)   
 
  ![TNT矿车](https://s2.loli.net/2022/04/08/F6KIyLtTEurX4gD.png)  
- 
+
  ![动力矿车](https://s2.loli.net/2022/04/08/1r97ynV38FlvJiM.png)  
 
-4. 新增海洋之心合成表
+---
+
+8. 新增海洋之心合成表
 
  ![海洋之心](https://s2.loli.net/2022/04/08/x8UiaWQnDAKm7eS.png)
 
-5. 新增附魔金苹果合成表和可再生
+---
+
+9. 新增附魔金苹果合成表和可再生
 
  ![附魔金苹果](https://s2.loli.net/2022/04/08/QJ7W6grIZt5yzq2.png)
- 
+
  - 猫咪赠礼有概率会获得附魔金苹果
 
-6. 新增旗帜图案可再生
+---
+
+10. 新增旗帜图案可再生
 
  - 合成底物均为骷髅旗帜图案
 
  ![猪鼻旗帜图案](https://s2.loli.net/2022/04/09/mlvZd8uABjDQGxE.png)
- 
+
  ![苦力怕旗帜图案](https://s2.loli.net/2022/04/09/tdVsP1BHYwm7ruQ.png)
 
+---
+
+11. 新增马凯可再生
+
+ ![马凯](https://s2.loli.net/2022/10/26/jpYz49r2NgyLeEH.png)
