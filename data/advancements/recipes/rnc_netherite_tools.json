@@ -1,0 +1,28 @@
+{
+    "parent": "ruecraft:recipes/root",
+    "criteria": {
+        "have_nether_star": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:nether_star"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "ruecraft:rnc_netherite_axe",
+            "ruecraft:rnc_netherite_boots",
+            "ruecraft:rnc_netherite_chestplate",
+            "ruecraft:rnc_netherite_halmet",
+            "ruecraft:rnc_netherite_hoe",
+            "ruecraft:rnc_netherite_leggings",
+            "ruecraft:rnc_netherite_pickaxe",
+            "ruecraft:rnc_netherite_shovel",
+            "ruecraft:rnc_netherite_sword"
+        ]
+    }
+}
