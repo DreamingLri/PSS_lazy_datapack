@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:recipes/crafting_table/root",
+  "criteria": {
+    "have_oak_logs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:nautilus_shell"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "minecraft:heart_of_the_sea"
+    ]
+  }
+}
