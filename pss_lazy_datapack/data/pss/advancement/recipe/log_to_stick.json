@@ -1,0 +1,20 @@
+{
+  "parent": "pss:recipe/root",
+  "criteria": {
+    "have_logs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "pss:log_to_stick"
+    ]
+  }
+}
