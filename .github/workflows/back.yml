@@ -33,6 +33,7 @@ jobs:
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
+          body: ${{ steps.get_commit_message.outputs.message }}
           draft: false
           prerelease: false
 
