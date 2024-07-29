@@ -1,5 +1,5 @@
 {
-  "parent": "pss:recipes/root",
+  "parent": "pss:recipe/root",
   "criteria": {
     "have_bone": {
       "trigger": "minecraft:inventory_changed",

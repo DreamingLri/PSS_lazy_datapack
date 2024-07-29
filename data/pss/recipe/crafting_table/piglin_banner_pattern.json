@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "gSg",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cooked_porkchop"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "S": {
+            "item": "minecraft:skull_banner_pattern"
+        }
+    },
+    "result": {
+        "id": "minecraft:piglin_banner_pattern",
+        "count": 1
+    }
+}
