@@ -57,25 +57,25 @@
 
 7. 新增各种矿车合成表
 
- ![漏斗矿车](https://s2.loli.net/2022/04/08/XV8qa7nrNBWhGC3.png)  
+ ![漏斗矿车](https://s2.loli.net/2024/07/29/UnGHFEpLP3B2qDO.png)  
 
- ![箱子矿车](https://s2.loli.net/2022/04/08/rA1EG3ZSn7tV2Ig.png)   
+ ![箱子矿车](https://s2.loli.net/2024/07/29/p8MiKZ5IbecdXQG.png)   
 
- ![TNT矿车](https://s2.loli.net/2022/04/08/F6KIyLtTEurX4gD.png)  
+ ![TNT矿车](https://s2.loli.net/2024/07/29/5H3mFGuRzNYSsC2.png)  
 
- ![动力矿车](https://s2.loli.net/2022/04/08/1r97ynV38FlvJiM.png)  
+ ![动力矿车](https://s2.loli.net/2024/07/29/zV6qGXQkpaRrwgt.png)  
 
 ---
 
 8. 新增海洋之心合成表
 
- ![海洋之心](https://s2.loli.net/2022/04/08/x8UiaWQnDAKm7eS.png)
+ ![海洋之心](https://s2.loli.net/2024/07/29/8vw9NjsOJiPRngf.png)
 
 ---
 
 9. 新增附魔金苹果合成表和可再生
 
- ![附魔金苹果](https://s2.loli.net/2022/04/08/QJ7W6grIZt5yzq2.png)
+ ![附魔金苹果](https://s2.loli.net/2024/07/29/edt4UhWv9KamVfR.png)
 
  - 猫咪赠礼有概率会获得附魔金苹果
 
@@ -85,12 +85,19 @@
 
  - 合成底物均为骷髅旗帜图案
 
- ![猪鼻旗帜图案](https://s2.loli.net/2022/04/09/mlvZd8uABjDQGxE.png)
+ ![猪鼻旗帜图案](https://s2.loli.net/2024/07/29/OuGpEyzRQnCKfeI.png)
 
- ![苦力怕旗帜图案](https://s2.loli.net/2022/04/09/tdVsP1BHYwm7ruQ.png)
+ ![苦力怕旗帜图案](https://s2.loli.net/2024/07/29/vXqgs2olief4wUC.png)
 
 ---
 
 11. 新增马凯可再生
 
- ![马凯](https://s2.loli.net/2024/07/29/5gaykKIJUr3YXC7.png)
+ ![马凯](https://s2.loli.net/2024/07/29/T49fvFbJVUYagCZ.png)
+
+
+
+
+
+
+
