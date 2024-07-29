@@ -1,0 +1,20 @@
+{
+  "parent": "pss:recipe/root",
+  "criteria": {
+    "have_spruce_logs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:spruce_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "pss:ez_slab_spruce"
+    ]
+  }
+}
