@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:recipe/crafting_table/root",
+  "parent": "pss:recipe/root",
   "criteria": {
     "have_oak_logs": {
       "trigger": "minecraft:inventory_changed",
@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "minecraft:"
+      "pss:crafting_table/heart_of_the_sea"
     ]
   }
 }
