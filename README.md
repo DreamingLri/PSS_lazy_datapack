@@ -28,8 +28,8 @@
 
 ---
 
-3. 镶金黑石可再生
-   - 与猪灵交易时有极小概率掉落镶金黑石
+3. ~~镶金黑石可再生~~
+   ~~- 与猪灵交易时有极小概率掉落镶金黑石~~
 
 ---
 
@@ -55,7 +55,7 @@
 
 ---
 
-7. 新增各种矿车合成表
+7. 各种矿车合成表
 
  ![漏斗矿车](https://s2.loli.net/2024/07/29/UnGHFEpLP3B2qDO.png)  
 
@@ -67,33 +67,50 @@
 
 ---
 
-8. 新增海洋之心合成表
+8. 海洋之心合成表
 
  ![海洋之心](https://s2.loli.net/2024/07/29/8vw9NjsOJiPRngf.png)
 
 ---
 
-9. 新增附魔金苹果合成表和可再生
+9. 附魔金苹果合成表和可再生
 
  ![附魔金苹果](https://s2.loli.net/2024/07/29/edt4UhWv9KamVfR.png)
 
- - 猫咪赠礼有概率会获得附魔金苹果
+- 猫咪赠礼有概率会获得附魔金苹果
 
 ---
 
-10. 新增旗帜图案可再生
+10. 旗帜图案可再生
 
- - 合成底物均为骷髅旗帜图案
+猪鼻旗帜图案
 
- ![猪鼻旗帜图案](https://s2.loli.net/2024/07/29/OuGpEyzRQnCKfeI.png)
+![猪鼻旗帜图案](https://s2.loli.net/2024/07/29/OuGpEyzRQnCKfeI.png)
 
- ![苦力怕旗帜图案](https://s2.loli.net/2024/07/29/vXqgs2olief4wUC.png)
+苦力怕旗帜图案
+
+![苦力怕旗帜图案](https://s2.loli.net/2024/07/29/vXqgs2olief4wUC.png)
+
+涡流旗帜图案
+
+![涡流旗帜图案](https://s2.loli.net/2024/07/30/74Fhnj9gQU5iX2Z.png)
+
+旋风旗帜图案
+
+![旋风旗帜图案](https://s2.loli.net/2024/07/30/gPtAK5eJdMCD36O.png)
+
+- 合成底物均为骷髅旗帜图案
 
 ---
 
-11. 新增马凯可再生
+11.  马凯可再生
 
- ![马凯](https://s2.loli.net/2024/07/29/T49fvFbJVUYagCZ.png)
+![马凯](https://s2.loli.net/2024/07/29/T49fvFbJVUYagCZ.png)
+
+12. 下界合金升级模板可再生
+
+![下界合金升级模板](https://s2.loli.net/2024/07/30/IfJoZNb7T6gXtaw.png) 
+
 
 
 
