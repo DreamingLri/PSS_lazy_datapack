@@ -24,6 +24,60 @@
 
 ---
 
+### 轻松~~懒狗~~合成:
+
+1. 木棍轻松合成
+
+![](https://s2.loli.net/2024/07/30/wEVbHnUKtpBzZiu.png)
+
+2. 箱子轻松合成
+
+![](https://s2.loli.net/2024/07/30/HPlGeUQcrXhoqV4.png)
+
+3. 台阶轻松合成
+
+![](https://s2.loli.net/2024/07/30/aVMF9z78u4ReQiO.png)
+
+- 竹块会合成12个竹台阶
+
+4. 楼梯轻松合成
+
+![](https://s2.loli.net/2024/07/30/6BDiQNuGYn1SWpA.png)
+
+- 竹块会合成8个竹楼梯
+
+5. 发射器轻松合成
+
+![](https://s2.loli.net/2024/07/30/ZdPsqLI7bJSV9Y4.png)
+![](https://s2.loli.net/2024/07/30/4juMlIiSCoyGWb8.png)
+
+6. 骨块轻松合成
+
+![](https://s2.loli.net/2024/07/30/OGvAiwMnFJB81Ef.png)
+![](https://s2.loli.net/2024/07/30/zDcF8VuyUT3RAbh.png)
+![](https://s2.loli.net/2024/07/30/xjMneC6TN7Ez4QU.png)
+
+7. 潜影盒轻松合成
+
+![](https://s2.loli.net/2024/07/30/iJvStmIrusTFk1j.png)
+
+---
+
+### 木头可切割:
+
+使用切石机可以切割木板/竹板
+
+1. 木板/竹板切割为半砖
+
+![](https://s2.loli.net/2024/07/30/YzhCfsbSHg3k79Q.png)
+
+
+2. 木板/竹板切割为台阶
+
+![](https://s2.loli.net/2024/07/30/FMT5ZLKw61UnG3C.png)
+
+---
+
 ### 可再生内容:
 
 1. 远古残骸可再生
