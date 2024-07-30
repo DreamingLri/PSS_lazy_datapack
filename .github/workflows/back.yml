@@ -23,9 +23,9 @@ jobs:
           mkdir 1.20
           git clone https://github.com/DreamingLri/PSS_lazy_datapack.git -b 1.20 1.20
           cd 1.21
-          zip -r ./pss_lazy_datapack_1.21.zip data/ pack.mcmeta pack.png
+          zip -r pss_lazy_datapack_1.21.zip data/ pack.mcmeta pack.png
           cd ../1.20
-          zip -r ./pss_lazy_datapack_1.20.zip data/ pack.mcmeta pack.png
+          zip -r pss_lazy_datapack_1.20.zip data/ pack.mcmeta pack.png
 
       - name: Create Release
         id: create_release
@@ -45,7 +45,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./pss_lazy_datapack_1.21.zip
+          asset_path: ./1.21/pss_lazy_datapack_1.21.zip
           asset_name: pss_lazy_datapack_1.21.zip
           asset_content_type: application/zip
 
@@ -55,6 +55,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./pss_lazy_datapack_1.20.zip
+          asset_path: ./1.20/pss_lazy_datapack_1.20.zip
           asset_name: pss_lazy_datapack_1.20.zip
           asset_content_type: application/zip
