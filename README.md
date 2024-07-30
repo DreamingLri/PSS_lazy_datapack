@@ -18,6 +18,8 @@
 
 5. 如果出现不能加载的情况，请unzip后再塞♂入
 
+6. minecraft 1.21版本请使用`pss_lazy_datapack_1.21.zip`，1.20及以下版本请使用`pss_lazy_data_pack_1.20.zip`
+
 ## 数据包内容：
 
 继承了[LBS_Ez_Craft_datapack](https://github.com/Sinbing/LBS_Ez_Craft_datapack/)和[LBS_Woodcutting_datapack](https://github.com/Sinbing/LBS_Woodcutting_datapack/)的优良传统
