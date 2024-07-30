@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:bamboo_block"
+    },
+    "result": {
+        "id": "minecraft:bamboo_stairs",
+        "count": 1
+    }
+}

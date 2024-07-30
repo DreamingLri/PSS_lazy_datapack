@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "group": "wooden_slab",
+    "pattern": [
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "tag": "minecraft:mangrove_logs"
+        }
+    },
+    "result": {
+        "id": "minecraft:mangrove_slab",
+        "count": 24
+    }
+}

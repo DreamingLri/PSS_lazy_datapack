@@ -1,0 +1,20 @@
+{
+    "parent": "pss:recipe/root",
+    "criteria": {
+        "have_mangrove_logs": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:mangrove_log"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "pss:crafting_table/ez_slab_mangrove"
+        ]
+    }
+}
