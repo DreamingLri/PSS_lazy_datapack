@@ -2,6 +2,8 @@
 ###### A lazy datapack for PSS, the lazier crafting,the better one.（划掉）
 
 ## 数据包使用说明：
+
+**<font color="red">1.20及以下版本将不会再进行更新!!</font>**
 1. 选择所需下载的数据包  
    - 如需使用稳定版，请进入[Release页面](https://github.com/DreamingLri/PSS_lazy_datapack/releases)下载  
    - 如需调试最新版（~~一定会不稳定~~），请直接将源码Clone到存档数据包文件夹中  
@@ -19,6 +21,7 @@
 5. 如果出现不能加载的情况，请unzip后再塞♂入
 
 6. minecraft 1.21版本请使用`pss_lazy_datapack_1.21.zip`，1.20及以下版本请使用`pss_lazy_data_pack_1.20.zip`
+
 
 ## 数据包内容：
 
