@@ -7,10 +7,10 @@
   ],
   "key": {
     "X": {
-      "item": "minecraft:netherite_ingot"
+      "item": "minecraft:diamond"
     },
     "Y": {
-      "item": "minecraft:diamond"
+      "item": "minecraft:netherite_ingot"
     },
     "Z": {
       "item": "minecraft:netherrack"
