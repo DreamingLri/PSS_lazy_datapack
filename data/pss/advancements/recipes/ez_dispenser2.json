@@ -1,0 +1,20 @@
+{
+  "parent": "pss:recipes/root",
+  "criteria": {
+    "have_dropper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:dropper"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "pss:creafting_table/ez_dispenser2"
+    ]
+  }
+}

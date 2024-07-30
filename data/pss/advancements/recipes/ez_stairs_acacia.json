@@ -1,0 +1,20 @@
+{
+  "parent": "pss:recipes/root",
+  "criteria": {
+    "have_acacia_logs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:acacia_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "pss:creafting_table/ez_stairs_acacia"
+    ]
+  }
+}

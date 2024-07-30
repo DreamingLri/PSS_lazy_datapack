@@ -1,0 +1,22 @@
+{
+    "parent": "minecraft:recipes/root",
+    "rewards": {
+      "recipes": [
+        "minecraft:dispenser"
+      ]
+    },
+    "criteria": {
+        "has_bow": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:redstone"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

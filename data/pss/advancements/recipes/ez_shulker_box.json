@@ -1,0 +1,20 @@
+{
+  "parent": "pss:recipes/root",
+  "criteria": {
+    "have_shulker_shell": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:shulker_shell"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "pss:creafting_table/ez_shulker_box"
+    ]
+  }
+}

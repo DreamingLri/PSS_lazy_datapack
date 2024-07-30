@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shaped",
+    "group": "wooden_stairs",
+    "pattern": [
+        "X  ",
+        "XX ",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "tag": "minecraft:bamboo_blocks"
+        }
+    },
+    "result": {
+        "item": "minecraft:bamboo_stairs",
+        "count": 8
+    }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "pss:recipes/root",
+  "criteria": {
+    "have_logs": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "pss:creafting_table/log_to_stick"
+    ]
+  }
+}
