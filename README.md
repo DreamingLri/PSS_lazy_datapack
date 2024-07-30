@@ -19,97 +19,88 @@
 5. 如果出现不能加载的情况，请unzip后再塞♂入
 
 ## 数据包内容：
-1. 继承了[LBS_Ez_Craft_datapack](https://github.com/Sinbing/LBS_Ez_Craft_datapack/)和[LBS_Woodcutting_datapack](https://github.com/Sinbing/LBS_Woodcutting_datapack/)的优良传统
+
+继承了[LBS_Ez_Craft_datapack](https://github.com/Sinbing/LBS_Ez_Craft_datapack/)和[LBS_Woodcutting_datapack](https://github.com/Sinbing/LBS_Woodcutting_datapack/)的优良传统
 
 ---
 
-2. 新增远古残骸可再生
-   - 地毯模组通过配置可令猪灵蛮兵在堡垒遗迹中再生，因此通过击杀它们可以概率掉落远古残骸
+### 可再生内容:
 
----
+1. 远古残骸可再生
+- 地毯模组通过配置可令猪灵蛮兵在堡垒遗迹中再生，因此通过击杀它们可以概率掉落远古残骸
 
-3. 镶金黑石可再生
-   - 与猪灵交易时有极小概率掉落镶金黑石
+2. 镶金黑石可再生
+- 与猪灵交易时有极小概率掉落镶金黑石
 
----
+3. 幽匿系列方块和回响碎片可再生
+- 监守者死亡时有概率会掉落幽匿块、幽匿催发体、幽匿尖啸体和幽匿脉络
+- 监守者被玩家杀死时有概率掉落回响碎片，极小概率会掉落唱片残片
 
-4. 幽匿系列方块和回响碎片可再生
-   - 监守者死亡时有概率会掉落幽匿块、幽匿催发体、幽匿尖啸体和幽匿脉络
-   - 监守者被玩家杀死时有概率掉落回响碎片，极小概率会掉落唱片残片
+4. 唱片可再生
+- 当苦力怕在堡垒遗迹中被骷髅杀死时，有几率掉落唱片`Pigstep`
+- 当苦力怕在要塞中被骷髅杀死时，有几率掉落唱片`otherside`
+- 当苦力怕在远古城市被骷髅杀死时，有几率掉落唱片残片
 
----
+5. 方解石与凝灰岩可再生
+- 将闪长岩放入高炉烧制获得方解石
+- 将安山岩放入高炉烧制获得凝灰岩
 
-5. 唱片可再生
-   - 当苦力怕在堡垒遗迹中被骷髅杀死时，有几率掉落唱片`Pigstep`
-
-   - 当苦力怕在要塞中被骷髅杀死时，有几率掉落唱片`otherside`
-
-   - 当苦力怕在远古城市被骷髅杀死时，有几率掉落唱片残片
-
----
-
-6. 方解石与凝灰岩可再生
-   - 将闪长岩放入高炉烧制获得方解石
-
-   - 将安山岩放入高炉烧制获得凝灰岩
-
----
-
-7. 各种矿车合成表
-
- ![漏斗矿车](https://s2.loli.net/2024/07/29/UnGHFEpLP3B2qDO.png)  
-
- ![箱子矿车](https://s2.loli.net/2024/07/29/p8MiKZ5IbecdXQG.png)   
-
- ![TNT矿车](https://s2.loli.net/2024/07/29/5H3mFGuRzNYSsC2.png)  
-
- ![动力矿车](https://s2.loli.net/2024/07/29/zV6qGXQkpaRrwgt.png)  
-
----
-
-8. 海洋之心合成表
-
- ![海洋之心](https://s2.loli.net/2024/07/29/8vw9NjsOJiPRngf.png)
-
----
-
-9. 附魔金苹果合成表和可再生
-
- ![附魔金苹果](https://s2.loli.net/2024/07/29/edt4UhWv9KamVfR.png)
-
+6. 附魔金苹果可再生
 - 猫咪赠礼有概率会获得附魔金苹果
 
 ---
 
-10. 旗帜图案可再生
+### 新增合成表:
 
-猪鼻旗帜图案
+1. 各种矿车合成表
 
-![猪鼻旗帜图案](https://s2.loli.net/2024/07/29/OuGpEyzRQnCKfeI.png)
+![漏斗矿车](https://s2.loli.net/2024/07/29/UnGHFEpLP3B2qDO.png)  
 
-苦力怕旗帜图案
+![箱子矿车](https://s2.loli.net/2024/07/29/p8MiKZ5IbecdXQG.png)   
 
-![苦力怕旗帜图案](https://s2.loli.net/2024/07/29/vXqgs2olief4wUC.png)
+![TNT矿车](https://s2.loli.net/2024/07/29/5H3mFGuRzNYSsC2.png)  
 
-涡流旗帜图案
+![动力矿车](https://s2.loli.net/2024/07/29/zV6qGXQkpaRrwgt.png)  
 
-![涡流旗帜图案](https://s2.loli.net/2024/07/30/74Fhnj9gQU5iX2Z.png)
+2. 海洋之心合成表
 
-旋风旗帜图案
+![海洋之心](https://s2.loli.net/2024/07/29/8vw9NjsOJiPRngf.png)
 
-![旋风旗帜图案](https://s2.loli.net/2024/07/30/gPtAK5eJdMCD36O.png)
+3. 附魔金苹果合成表
+
+![附魔金苹果](https://s2.loli.net/2024/07/29/edt4UhWv9KamVfR.png)
+
+4. 旗帜图案合成表
+
+   猪鼻旗帜图案
+
+   ![猪鼻旗帜图案](https://s2.loli.net/2024/07/29/OuGpEyzRQnCKfeI.png)
+
+   苦力怕旗帜图案
+
+   ![苦力怕旗帜图案](https://s2.loli.net/2024/07/29/T49fvFbJVUYagCZ.png)
+
+   涡流旗帜图案
+
+   ![涡流旗帜图案](https://s2.loli.net/2024/07/30/74Fhnj9gQU5iX2Z.png)
+
+   旋风旗帜图案
+
+   ![旋风旗帜图案](https://s2.loli.net/2024/07/30/gPtAK5eJdMCD36O.png)
 
 - 合成底物均为骷髅旗帜图案
 
----
+5. 马凯合成表
 
-11.  马凯可再生
+![马凯](https://s2.loli.net/2024/07/29/vXqgs2olief4wUC.png)
 
-![马凯](https://s2.loli.net/2024/07/29/T49fvFbJVUYagCZ.png)
-
-12. 下界合金升级模板可再生
+6. 下界合金升级模板合成表
 
 ![下界合金升级模板](https://s2.loli.net/2024/07/30/IfJoZNb7T6gXtaw.png) 
+
+7. 沉重核心可再生
+
+![沉重核心](https://s2.loli.net/2024/07/30/jexXpzk8wIN7nLD.png)
 
 
 
