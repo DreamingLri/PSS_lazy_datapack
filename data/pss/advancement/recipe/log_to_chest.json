@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "pss:log_to_chest"
+      "pss:crafting_table/log_to_chest"
     ]
   }
 }

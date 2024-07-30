@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:dark_oak_logs"
+            "items": "#minecraft:dark_oak_logs"
           }
         ]
       }
@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "pss:ez_stairs_dark_oak"
+      "pss:crafting_table/ez_stairs_dark_oak"
     ]
   }
 }

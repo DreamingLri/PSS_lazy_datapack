@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:jungle_logs"
+            "items": "#minecraft:jungle_logs"
           }
         ]
       }
@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "pss:ez_slab_jungle"
+      "pss:crafting_table/ez_slab_jungle"
     ]
   }
 }

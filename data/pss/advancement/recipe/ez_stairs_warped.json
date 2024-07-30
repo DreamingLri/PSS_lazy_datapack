@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:warped_stems"
+            "items": "#minecraft:warped_stems"
           }
         ]
       }
@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "pss:ez_stairs_warped"
+      "pss:crafting_table/ez_stairs_warped"
     ]
   }
 }

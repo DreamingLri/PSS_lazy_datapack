@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:dropper"
+            "items": "minecraft:dropper"
           }
         ]
       }
@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "pss:ez_dispenser"
+      "pss:crafting_table/ez_dispenser"
     ]
   }
 }

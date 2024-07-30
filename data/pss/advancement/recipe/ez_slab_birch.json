@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:birch_logs"
+            "items": "#minecraft:birch_logs"
           }
         ]
       }
@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "pss:ez_slab_birch"
+      "pss:crafting_table/ez_slab_birch"
     ]
   }
 }

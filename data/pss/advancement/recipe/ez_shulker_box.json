@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "item": "minecraft:shulker_shell"
+            "items": "minecraft:shulker_shell"
           }
         ]
       }
@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "pss:ez_shulker_box"
+      "pss:crafting_table/ez_shulker_box"
     ]
   }
 }

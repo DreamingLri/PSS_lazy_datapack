@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "tag": "minecraft:nautilus_shell"
+            "items": "minecraft:nautilus_shell"
           }
         ]
       }
@@ -14,7 +14,7 @@
   },
   "rewards": {
     "recipes": [
-      "minecraft:heart_of_the_sea"
+      "minecraft:"
     ]
   }
 }
