@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shaped",
+    "group": "heavy_core",
+    "pattern": [
+        "###",
+        "#&#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:blaze_rod"
+        },
+        "&": {
+            "item": "minecraft:netherite_block"
+        }
+    },
+    "result": {
+        "id": "minecraft:heavy_core",
+        "count": 1
+    }
+}
