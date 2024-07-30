@@ -22,8 +22,10 @@ jobs:
           git clone https://github.com/DreamingLri/PSS_lazy_datapack.git -b master 1.21
           mkdir 1.20
           git clone https://github.com/DreamingLri/PSS_lazy_datapack.git -b 1.20 1.20
-          zip -r pss_lazy_datapack_1.21.zip 1.21/data/ 1.21/pack.mcmeta 1.21/pack.png
-          zip -r pss_lazy_datapack_1.20.zip 1.20/data/ 1.20/pack.mcmeta 1.20/pack.png
+          cd 1.21
+          zip -r pss_lazy_datapack_1.21.zip data/ pack.mcmeta pack.png
+          cd ../1.20
+          zip -r pss_lazy_datapack_1.20.zip data/ pack.mcmeta pack.png
 
       - name: Create Release
         id: create_release
