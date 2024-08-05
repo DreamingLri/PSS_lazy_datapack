@@ -84,6 +84,16 @@
 
 ---
 
+### 切割转化
+
+1. 石头切割为圆石
+
+![](https://s2.loli.net/2024/08/05/bMajkRIxOuV1HTJ.png)
+
+2. 深板岩切割为深板岩圆石
+
+![](https://s2.loli.net/2024/08/05/PqDYSaedAbHRo95.png)
+
 ### 可再生内容:
 
 1. 远古残骸可再生
@@ -161,7 +171,7 @@
 
 ![下界合金升级模板](https://s2.loli.net/2024/07/30/IfJoZNb7T6gXtaw.png) 
 
-7. 沉重核心可再生
+7. 沉重核心合成表
 
 ![沉重核心](https://s2.loli.net/2024/07/30/jexXpzk8wIN7nLD.png)
 
