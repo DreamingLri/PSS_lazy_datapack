@@ -1,0 +1,20 @@
+{
+    "parent": "pss:recipe/root",
+    "criteria": {
+        "have_deepslate": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:deepslate"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "pss:stone_cutting/ez_cobble_deepslate"
+        ]
+    }
+}
