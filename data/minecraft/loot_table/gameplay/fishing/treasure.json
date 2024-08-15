@@ -72,6 +72,12 @@
                 "options": [
                   "minecraft:wind_burst",
                   "minecraft:swift_sneak"
+                ],
+                "conditions": [
+                  {
+                    "condition": "minecraft:random_chance",
+                    "chance": 0.1
+                  }
                 ]
               }
             ]
